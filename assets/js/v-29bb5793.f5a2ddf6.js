@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo1=self.webpackChunkdemo1||[]).push([[2488],{5126:(e,t,r)=>{r.r(t),r.d(t,{data:()=>n});const n={key:"v-29bb5793",path:"/learn/frontmatter.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{}}},9096:(e,t,r)=>{r.r(t),r.d(t,{default:()=>a});const n={},a=(0,r(3744).Z)(n,[["render",function(e,t){return null}]])}}]);

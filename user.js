@@ -1,0 +1,1 @@
+export let sites=[{title:"momotani",url:"https://blog.cco.vin",logo:"https://ooszy.cco.vin/img/blog-public/avatar.jpg",describe:"Resding is to the mind while exercise to the body"}];
